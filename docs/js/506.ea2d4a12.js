@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_notion"]=self["webpackChunkvue_notion"]||[]).push([[506],{506:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var u=function(){var n=this;n._self._c;return n._m(0)},i=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"directive-page"},[t("h2",[n._v("学習2：ディレクティブ")])])}],r={},s=r,c=e(1001),f=(0,c.Z)(s,u,i,!1,null,"033f5082",null),l=f.exports}}]);
+//# sourceMappingURL=506.ea2d4a12.js.map

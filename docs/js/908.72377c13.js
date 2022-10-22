@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_notion"]=self["webpackChunkvue_notion"]||[]).push([[908],{4908:function(t,n,s){s.r(n),s.d(n,{default:function(){return c}});var e=function(){var t=this;t._self._c;return t._m(0)},i=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"main-page"},[n("div",{staticClass:"left-menu"},[t._v(" 左メニュー ")]),n("div",{staticClass:"right-view"},[t._v(" 右ビュー ")])])}],u={},a=u,l=s(1001),r=(0,l.Z)(a,e,i,!1,null,"1f6f7744",null),c=r.exports}}]);
+//# sourceMappingURL=908.72377c13.js.map

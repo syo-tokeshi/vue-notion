@@ -1,12 +1,11 @@
 <template>
-  <div class="event-page">
-    <h2>学習3：イベント</h2>
-  </div>
+<div class="event-page">
+  <h2>学習3：イベント</h2>
+</div>
 </template>
 
 <script>
-export default {
-}
+export default {}
 </script>
 
 <style scoped>

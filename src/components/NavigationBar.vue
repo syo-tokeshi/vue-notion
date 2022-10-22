@@ -10,7 +10,7 @@
     </button>
 
     <!-- メニュー全体 -->
-    <div class="collapse navbar-collapse" id="navbarText">
+    <div class="collapse navbar-collapse" id="navbarText" v-mo>
       <ul class="navbar-nav">
         <!-- ノートリストページへのリンク -->
         <li class="nav-item">

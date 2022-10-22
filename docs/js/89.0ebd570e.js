@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_notion"]=self["webpackChunkvue_notion"]||[]).push([[89],{8089:function(n,t,e){e.r(t),e.d(t,{default:function(){return a}});var u=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"event-page"},[t("h2",[n._v("学習3：イベント")])])}],r={},c=r,i=e(1001),l=(0,i.Z)(c,u,s,!1,null,"7c080003",null),a=l.exports}}]);
+//# sourceMappingURL=89.0ebd570e.js.map
